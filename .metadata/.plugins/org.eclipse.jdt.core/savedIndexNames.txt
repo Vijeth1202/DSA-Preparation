@@ -1,0 +1,5 @@
+INDEX VERSION 1.131+D:\DSAPreparation\.metadata\.plugins\org.eclipse.jdt.core
+2462730706.index
+1231766059.index
+3498066710.index
+2529567628.index
